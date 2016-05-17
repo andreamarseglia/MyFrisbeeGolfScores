@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFrisbeeGolfScores</string>
+    <string-array name="Menu">
+        <item>Aloita</item>
+        <item>Lisää Rata</item>
+        <item>Lisää Pelaaja</item>
+        <item>Tulokset</item>
+        <item>Poistu</item>
+    </string-array>
+</resources>
