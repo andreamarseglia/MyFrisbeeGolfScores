@@ -22,6 +22,7 @@ public class MenuFragment extends ListFragment implements AdapterView.OnItemClic
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         View view = inflater.inflate(R.layout.list_fragment, container, false);
+        setHasOptionsMenu(true);
         return view;
     }
     @Override
